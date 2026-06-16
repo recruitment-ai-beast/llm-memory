@@ -56,6 +56,6 @@ Completely different behaviour.
 
 **BEAST — Vertical AI Engineer**  
 Building production AI systems for recruitment automation.  
-[Twitter](https://x.com/beastbuildsai)
+[Twitter](https://x.com/beastbuildsai) • 
 [LinkedIn](https://www.linkedin.com/in/beast-builds-ai) • 
 [Live Product](https://ai-for-resume-screening.streamlit.app/)
