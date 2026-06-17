@@ -118,3 +118,4 @@ zstandard==0.25.0
 langchain-groq
 dotenv
 langgraph-checkpoint-sqlite
+langchain-cohere
