@@ -221,11 +221,12 @@ COHERE_API_KEY=your_key
 
 Run any demo:
 ```bash
-python stm_demo.py
-python persistence_demo.py
-python trimming_demo.py
-python deletion_demo.py
-python ltm_fundamentals_demo.py
+python my-folder/stm_demo.py
+python my-folder/persistence_demo.py
+python my-folder/trimming_demo.py
+python my-folder/deletion_demo.py
+python my-folder/ltm_fundamentals_demo.py
+python my-folder/summarization_demo.py
 ```
 
 ---
